@@ -2244,7 +2244,7 @@ input, select, textarea {
 /* Intro */
 
 	#who {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		background: url("images/overlay.png"), url("../../images/Intro_dronePic1_dark.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2254,7 +2254,7 @@ input, select, textarea {
 /* One */
 
 	#workex {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+		background: url("images/overlay.png"), url("../../images/Workex_pcb_iot.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2263,7 +2263,7 @@ input, select, textarea {
 /* Two */
 
 	#edu {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+		background: url("images/overlay.png"), url("../../images/Edu_CAD_render.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2272,7 +2272,7 @@ input, select, textarea {
 /* CV */
 
 	#CV {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+		background: url("images/overlay.png"), url("../../images/Resume_Stock.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
